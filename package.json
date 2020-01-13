@@ -22,5 +22,8 @@
   "homepage": "https://github.com/evo772772/validator#readme",
   "devDependencies": {
     "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "http-errors": "git+https://github.com/evo772772/http-errors.git"
   }
 }
